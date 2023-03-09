@@ -2,15 +2,6 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "CsvHelper/30.0.1": {
-        "type": "package",
-        "compile": {
-          "lib/net5.0/CsvHelper.dll": {}
-        },
-        "runtime": {
-          "lib/net5.0/CsvHelper.dll": {}
-        }
-      },
       "log4net/2.0.15": {
         "type": "package",
         "dependencies": {
@@ -181,7 +172,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "CsvHelper": "30.0.1",
           "FileOperationEngineContract": "1.0.0",
           "Newtonsoft.Json": "13.0.2",
           "System.Linq.Dynamic.Core": "1.2.25",
@@ -207,30 +197,6 @@
     }
   },
   "libraries": {
-    "CsvHelper/30.0.1": {
-      "sha512": "rcZtgbWR+As4G3Vpgx0AMNmShGuQLFjkHAPIIflzrfkJCx8/AOd4m96ZRmiU1Wi39qS5UVjV0P8qdgqOo5Cwyg==",
-      "type": "package",
-      "path": "csvhelper/30.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "csvhelper.30.0.1.nupkg.sha512",
-        "csvhelper.nuspec",
-        "lib/net45/CsvHelper.dll",
-        "lib/net45/CsvHelper.xml",
-        "lib/net47/CsvHelper.dll",
-        "lib/net47/CsvHelper.xml",
-        "lib/net5.0/CsvHelper.dll",
-        "lib/net5.0/CsvHelper.xml",
-        "lib/net6.0/CsvHelper.dll",
-        "lib/net6.0/CsvHelper.xml",
-        "lib/netstandard2.0/CsvHelper.dll",
-        "lib/netstandard2.0/CsvHelper.xml",
-        "lib/netstandard2.1/CsvHelper.dll",
-        "lib/netstandard2.1/CsvHelper.xml"
-      ]
-    },
     "log4net/2.0.15": {
       "sha512": "GahnO9ZgFka+xYcFwAfIFjW+k86P2nxFoaEpH6t3v4hiGj7tv2ksVZphxCVIHmJxoySS0HeU3dgCW+bSCcfD0A==",
       "type": "package",

@@ -25,15 +25,15 @@ namespace FileApi
     {
         public static void AddFileConverterExecuterServices(this IServiceCollection services)
         {
-            services.AddSingleton<IFileOperationHandler, FileParseHandler>();
-            services.AddSingleton<IFileOperationHandler, FileSortHandler>();
-            services.AddSingleton<IFileOperationHandler, FileFilterHandler>();
+            services.AddTransient<IFileOperationHandler, FileParseHandler>();
+            services.AddTransient<IFileOperationHandler, FileSortHandler>();
+            services.AddTransient<IFileOperationHandler, FileFilterHandler>();
 
-            services.AddSingleton<IFileOperationChain, FileOperationChain>();
-            services.AddSingleton<IFileOperationService, FileOperationService>();
+            services.AddTransient<IFileOperationChain, FileOperationChain>();
+            services.AddTransient<IFileOperationService, FileOperationService>();
 
-            services.AddSingleton<IExport, CsvExporter>();
-            services.AddSingleton<IExport, XmlExporter>();
+            services.AddTransient<IExport, CsvExporter>();
+            services.AddTransient<IExport, XmlExporter>();
             
         }
 

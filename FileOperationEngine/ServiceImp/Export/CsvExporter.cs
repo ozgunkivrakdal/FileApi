@@ -16,6 +16,9 @@ namespace FileOperationEngine.ServiceImp.Export
             var sb = new StringBuilder();
             var info = typeof(AddressInfoModel).GetProperties();
             var header = "";
+
+            DeletePreviousFile(destFilePath);
+
             if (!File.Exists(destFilePath))
             {
                 var file = File.Create(destFilePath);
@@ -49,6 +52,15 @@ namespace FileOperationEngine.ServiceImp.Export
             }
 
         }
+
+        private static void DeletePreviousFile(string destFilePath)
+        {
+            if (File.Exists(destFilePath))
+            {
+                File.Delete(destFilePath);
+            }
+        }
+
         public CommonEnums.EFileExtention GetExportType()
         {
             return CommonEnums.EFileExtention.CSV;

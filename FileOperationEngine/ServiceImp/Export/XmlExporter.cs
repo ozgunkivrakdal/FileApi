@@ -21,6 +21,7 @@ namespace FileOperationEngine.ServiceImp.Export
             AddressInfoModelXml xmlModel = new AddressInfoModelXml();
 
             ConvertToXmlModel(addressInfoList, xmlModel);
+            DeletePreviousFile(destFilePath);
             FileInfo file = new FileInfo(destFilePath);
             StreamWriter sw = file.AppendText();
 
@@ -36,6 +37,14 @@ namespace FileOperationEngine.ServiceImp.Export
 
             }
             sw.Close();
+        }
+
+        private static void DeletePreviousFile(string destFilePath)
+        {
+            if (File.Exists(destFilePath))
+            {
+                File.Delete(destFilePath);
+            }
         }
 
         private static void ConvertToXmlModel(List<AddressInfoModel> addressInfoList, AddressInfoModelXml xmlModel)

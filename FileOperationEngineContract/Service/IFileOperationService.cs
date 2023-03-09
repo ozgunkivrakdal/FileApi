@@ -9,8 +9,6 @@ namespace FileOperationEngineContract.Service
 {
     public interface IFileOperationService
     {
-        //void SetNextService(IFileOperationService nextOperation);
-        //FileOperationResModel ProcessRequest(FileOperationReqModel request);
         FileOperationResModel Operate(FileOperationReqModel fileOperationReqModel);
     }
 }

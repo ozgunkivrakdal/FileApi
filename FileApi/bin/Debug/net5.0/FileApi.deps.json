@@ -317,17 +317,6 @@
           "FileApi.dll": {}
         }
       },
-      "CsvHelper/30.0.1": {
-        "runtime": {
-          "lib/net5.0/CsvHelper.dll": {
-            "assemblyVersion": "30.0.0.0",
-            "fileVersion": "30.0.1.0"
-          }
-        },
-        "compile": {
-          "lib/net5.0/CsvHelper.dll": {}
-        }
-      },
       "log4net/2.0.15": {
         "dependencies": {
           "System.Configuration.ConfigurationManager": "4.5.0"
@@ -464,7 +453,6 @@
       },
       "FileOperationEngine/1.0.0": {
         "dependencies": {
-          "CsvHelper": "30.0.1",
           "FileOperationEngineContract": "1.0.0",
           "Newtonsoft.Json": "13.0.2",
           "System.Linq.Dynamic.Core": "1.2.25",
@@ -2172,13 +2160,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "CsvHelper/30.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-rcZtgbWR+As4G3Vpgx0AMNmShGuQLFjkHAPIIflzrfkJCx8/AOd4m96ZRmiU1Wi39qS5UVjV0P8qdgqOo5Cwyg==",
-      "path": "csvhelper/30.0.1",
-      "hashPath": "csvhelper.30.0.1.nupkg.sha512"
     },
     "log4net/2.0.15": {
       "type": "package",

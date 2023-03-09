@@ -38,7 +38,6 @@ namespace FileOperationEngine.ServiceImp
             LOG.Info($"::AbstractFileOperationHandler, handlerType:{this.GetType().Name} ended");
             return _nextHandler.ProcessRequest(request);
         }
-
         public abstract FileOperationResModel HandleRequest(FileOperationReqModel request);
     }
 }

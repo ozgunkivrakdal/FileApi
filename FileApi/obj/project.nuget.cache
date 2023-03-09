@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "RXILoE1m6X/EnsHL9Q77cBuMK+oulAk2tZDHfvI5D0V1oTL7eOpjXjpjCQlqyWmUu2vfB1/50dSiZ9rQL6Hf/w==",
+  "dgSpecHash": "JCNqFJiu9mugrihPRP4GqELumyhQXwrupn55E+K7zZRjyaMfGcLYvS5wKa+8a1kpU/8Pk9N6lDWblcFaIIJXYg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ozgun.sekerci\\source\\repos\\FileApi\\FileApi\\FileApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ozgun.sekerci\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\ozgun.sekerci\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\ozgun.sekerci\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\ozgun.sekerci\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
