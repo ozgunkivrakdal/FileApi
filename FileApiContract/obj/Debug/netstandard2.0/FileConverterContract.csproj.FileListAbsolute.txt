@@ -1,0 +1,12 @@
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileConverterContract\bin\Debug\netstandard2.0\FileConverterContract.deps.json
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileConverterContract\bin\Debug\netstandard2.0\FileConverterContract.dll
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileConverterContract\bin\Debug\netstandard2.0\FileConverterContract.pdb
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileConverterContract\obj\Debug\netstandard2.0\FileConverterContract.csprojAssemblyReference.cache
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileConverterContract\obj\Debug\netstandard2.0\FileConverterContract.AssemblyInfoInputs.cache
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileConverterContract\obj\Debug\netstandard2.0\FileConverterContract.AssemblyInfo.cs
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileConverterContract\obj\Debug\netstandard2.0\FileConverterContract.csproj.CoreCompileInputs.cache
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileConverterContract\obj\Debug\netstandard2.0\FileConverterContract.dll
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileConverterContract\obj\Debug\netstandard2.0\FileConverterContract.pdb
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileConverterContract\bin\Debug\netstandard2.0\FileOperationEngineContract.dll
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileConverterContract\bin\Debug\netstandard2.0\FileOperationEngineContract.pdb
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileConverterContract\obj\Debug\netstandard2.0\FileConverterContract.csproj.CopyComplete

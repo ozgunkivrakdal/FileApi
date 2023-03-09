@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ozgun.sekerci\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ozgun.sekerci\\.nuget\\packages"
+    ]
+  }
+}

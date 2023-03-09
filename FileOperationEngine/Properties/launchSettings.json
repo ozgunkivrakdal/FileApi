@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "FileOperationEngine": {
+      "commandName": "Project"
+    }
+  }
+}

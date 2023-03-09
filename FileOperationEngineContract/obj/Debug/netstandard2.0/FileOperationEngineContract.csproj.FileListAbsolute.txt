@@ -1,0 +1,9 @@
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileOperationEngineContract\bin\Debug\netstandard2.0\FileOperationEngineContract.deps.json
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileOperationEngineContract\bin\Debug\netstandard2.0\FileOperationEngineContract.dll
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileOperationEngineContract\bin\Debug\netstandard2.0\FileOperationEngineContract.pdb
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileOperationEngineContract\obj\Debug\netstandard2.0\FileOperationEngineContract.AssemblyInfoInputs.cache
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileOperationEngineContract\obj\Debug\netstandard2.0\FileOperationEngineContract.AssemblyInfo.cs
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileOperationEngineContract\obj\Debug\netstandard2.0\FileOperationEngineContract.csproj.CoreCompileInputs.cache
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileOperationEngineContract\obj\Debug\netstandard2.0\FileOperationEngineContract.dll
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileOperationEngineContract\obj\Debug\netstandard2.0\FileOperationEngineContract.pdb
+C:\Users\ozgun.sekerci\source\repos\FileConverter\FileOperationEngineContract\obj\Debug\netstandard2.0\FileOperationEngineContract.csprojAssemblyReference.cache
